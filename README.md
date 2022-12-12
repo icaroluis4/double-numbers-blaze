@@ -1,9 +1,9 @@
 # double-numbers-blaze
 Programa javascript que salva os números do jogo Double do site de apostas Blaze
-##Requisitos:
+## Requisitos:
 NODE , puppeteer
 
-##Modificar os seguintes:
+## Modificar os seguintes:
 "arr.length": A quantidade requerida de números salvos
 "headless: false" : Exibição da Janela do Chromium
 
