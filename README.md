@@ -4,7 +4,7 @@ Programa javascript que salva os números do jogo Double do site de apostas Blaz
 NODE , puppeteer
 
 ## Modificar os seguintes:
-"arr.length": A quantidade requerida de números salvos
-"headless: false" : Exibição da Janela do Chromium
+<p>"arr.length": A quantidade requerida de números salvos</p>
+<p>"headless: false" : Exibição da Janela do Chromium</p>
 
 Recomendável fazer um teste com 10 elementos para teste.
