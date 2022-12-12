@@ -7,4 +7,4 @@ NODE , puppeteer
 <p>"arr.length": A quantidade requerida de números salvos</p>
 <p>"headless: false" : Exibição da Janela do Chromium</p>
 
-Recomendável fazer um teste com 10 elementos para teste.
+Recomendável fazer um teste inicial com 10 elementos.
